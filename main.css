@@ -1,0 +1,37 @@
+*, *::before, *::after {
+  margin: 0;
+}
+
+body {
+  background: rgb(36, 35, 51);
+  color: aliceblue;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu {
+  width: 400px;
+}
+.menu h2 {
+  text-align: center;
+  margin: 2rem;
+}
+.menu h1 {
+  text-align: center;
+  margin: 1rem;
+}
+.menu .choose {
+  display: flex;
+  justify-content: space-around;
+}
+.menu button {
+  display: block;
+  margin: 1.5rem auto 0.5rem auto;
+}
+.menu p {
+  text-align: center;
+  margin: 1rem;
+}/*# sourceMappingURL=main.css.map */

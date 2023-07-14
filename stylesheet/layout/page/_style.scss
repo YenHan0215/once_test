@@ -1,0 +1,23 @@
+.menu{
+    width: 400px;
+    h2{
+        text-align: center;
+        margin: 2rem;
+    }
+    h1{
+        text-align: center;
+        margin: 1rem;
+    }
+    .choose{
+        display: flex;
+        justify-content: space-around;
+    }
+    button{
+        display: block;
+        margin: 1.5rem auto 0.5rem auto
+    }
+    p{
+        text-align: center;
+        margin: 1rem;
+    }
+}
